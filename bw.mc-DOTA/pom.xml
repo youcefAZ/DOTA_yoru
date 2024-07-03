@@ -16,7 +16,7 @@
 		<dependency>
 			<groupId>com.tibco.plugins</groupId>
 			<artifactId>com.tibco.bw.palette.shared</artifactId>
-			<version>6.1.1900</version>
+			<version>6.2.1900</version>
 		</dependency>
 		<dependency>
 			<groupId>com.fastcube.esb.framework</groupId>
